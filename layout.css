@@ -1,0 +1,14 @@
+/* CSS Document */
+body{
+text-align:center;
+}
+span{
+padding:7px;
+margin:2px;
+background-color:#66CC66;
+color:#FFFFFF;
+}
+div#number{
+position:relative;
+top:20px;
+}
